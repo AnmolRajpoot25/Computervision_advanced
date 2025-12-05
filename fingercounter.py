@@ -31,7 +31,7 @@ while True:
     if len(lmList) != 0:
         fingers = []
 
-        if lmList[tipIds[0]][1] > lmList[tipIds[0] - 1][1]:
+        if lmList[tipIds[0]][1] < lmList[tipIds[0] - 1][1]:
             fingers.append(1)
         else:
             fingers.append(0)
