@@ -3,5 +3,5 @@ opencv-python~=4.5.5.64
 streamlit~=1.52.0
 mediapipe~=0.10.21
 numpy~=1.26.4
-pycaw~=20251023
+
 comtypes~=1.4.13
